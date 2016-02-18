@@ -1,0 +1,57 @@
+img {
+	margin-bottom: 2vw;
+}
+
+.header {
+	width: 100%;
+	height: 100%;
+}
+
+.headers {
+	font-family: 'Lucida Bright', Georgia, serif;
+	font-weight: bold;
+}
+
+.subheader {
+	text-align: center;
+}
+
+.author {
+	text-align: center;
+}
+
+.designer {
+	text-align: center;
+}
+
+p {
+	font-size: 0.75em;
+	font-weight: 500;
+}
+
+.illo {
+	text-align: center;
+}
+
+.image {
+	text-align: center;
+}
+
+.hline { width:100%; height:1px; background: black; margin-top: 1vw; margin-bottom: 2vw; }
+
+h6 {
+	font-size: 0.7em;
+	font-style: italic;
+}
+
+h5 {
+	font-size: 0.9em;
+	font-style: italic;
+}
+
+h4 {
+	font-style: italic;
+	font-weight: 500;
+	font-family: 'Lucida Sans Unicode';
+	font-color: #848482;
+}
